@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <title>關於我們</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background: #f9f9f9; }
+        .container { max-width: 700px; margin: auto; background: #fff; padding: 32px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);}
+        h1 { color: #2c3e50; }
+        p { color: #555; line-height: 1.7; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>關於我們</h1>
+        <p>
+            歡迎來到我們的網站！我們致力於提供高品質的服務與資訊，協助用戶解決問題並創造價值。<br>
+            我們的團隊由一群充滿熱情與專業的人士組成，秉持誠信、創新與合作的精神，持續追求卓越。<br>
+            感謝您的支持與信任，若有任何建議或需求，歡迎隨時與我們聯繫！
+        </p>
+    </div>
+</body>
+</html>
